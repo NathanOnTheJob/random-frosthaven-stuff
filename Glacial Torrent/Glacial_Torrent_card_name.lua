@@ -3,22 +3,22 @@ deckInfo = {
   description = "Torrent",
 }
 cardNames = {
-  "Attack Modifier (-2) brittle",
-  "Attack Modifier (+0) (icon) 1",
-  "Attack Modifier (+0) (icon) 1",
-  "Attack Modifier (+0) (icon) 1",
-  "Attack Modifier push 2 -rolling",
-  "Attack Modifier push 2 -rolling",
-  "Attack Modifier (+2) (Create one 1-hex icy terrain tile in a featureless hex adjacent to the target)",
-  "Attack Modifier (+2) (Create one 1-hex icy terrain tile in a featureless hex adjacent to the target)",
-  "Attack Modifier (+1) ice",
-  "Attack Modifier (+1) ice",
-  "Attack Modifier (+1) ice",
-  "Attack Modifier (+1) ice",
-  "Attack Modifier (+3)",
-  "Attack Modifier (+0) (heal) 1, ward, self -rolling",
-  "Attack Modifier (+0) (heal) 1, ward, self -rolling",
-  "Attack Modifier (+0) (heal) 1, ward, self -rolling",
+Attack Modifier (-2) brittle
+Attack Modifier (+0) (icon) 1
+Attack Modifier (+0) (icon) 1
+Attack Modifier (+0) (icon) 1
+Attack Modifier push 2 -rolling
+Attack Modifier push 2 -rolling
+Attack Modifier (+2) (Create one 1-hex icy terrain tile in a featureless hex adjacent to the target)
+Attack Modifier (+2) (Create one 1-hex icy terrain tile in a featureless hex adjacent to the target)
+Attack Modifier (+1) ice
+Attack Modifier (+1) ice
+Attack Modifier (+1) ice
+Attack Modifier (+1) ice
+Attack Modifier (+3)
+Attack Modifier (+0) (heal) 1, ward, self -rolling
+Attack Modifier (+0) (heal) 1, ward, self -rolling
+Attack Modifier (+0) (heal) 1, ward, self -rolling
 }
 cardDescriptions = {
   "Torrent",
